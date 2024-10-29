@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WEEK12HOMEWORK/1.0.0": {
+        "runtime": {
+          "WEEK12HOMEWORK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEEK12HOMEWORK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
