@@ -54,3 +54,4 @@
 /Users/tahirburakavar/Documents/github/Week12Homeworkk/Soru1/obj/Debug/net8.0/WEEK12HOMEWORK.pdb
 /Users/tahirburakavar/Documents/github/Week12Homeworkk/Soru1/obj/Debug/net8.0/WEEK12HOMEWORK.genruntimeconfig.cache
 /Users/tahirburakavar/Documents/github/Week12Homeworkk/Soru1/obj/Debug/net8.0/ref/WEEK12HOMEWORK.dll
+/Users/tahirburakavar/Documents/github/Week12Homeworkk/Soru1/obj/Debug/net8.0/WEEK12HOMEWORK.sourcelink.json
